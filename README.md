@@ -14,3 +14,4 @@ exercise number respectively.
 ## Here wil be the list of programs and the data files if needed.
 
 - [X] Hello world
+- [X] echo1
