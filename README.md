@@ -12,3 +12,5 @@ named according to the nomenclature CXEY.go where X and Y are the chapter and
 exercise number respectively.
 
 ## Here wil be the list of programs and the data files if needed.
+
+- [X] Hello world
