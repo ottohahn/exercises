@@ -15,3 +15,4 @@ exercise number respectively.
 
 - [X] Hello world
 - [X] echo1
+- [X] echo2
