@@ -19,3 +19,4 @@ exercise number respectively.
 - [X] echo3
 - [X] C01E01
 - [X] C01E02
+- [X] C01E03
