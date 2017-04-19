@@ -22,4 +22,5 @@ exercise number respectively.
 - [X] C01E03
 - [X] dup1
 - [X] dup2
+- [X] dup3
 
