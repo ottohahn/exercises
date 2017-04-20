@@ -24,4 +24,5 @@ exercise number respectively.
 - [X] dup2
 - [X] dup3
 - [X] C01E04
+- [X] lissajous
 
