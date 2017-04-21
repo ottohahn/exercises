@@ -26,4 +26,4 @@ exercise number respectively.
 - [X] C01E04
 - [X] lissajous
 - [X] C01E05
-
+- [X] C01E06
