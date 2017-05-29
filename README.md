@@ -28,4 +28,9 @@ exercise number respectively.
 - [X] C01E05
 - [X] C01E06
 - [X] fetch.go
+- [X] C01E07
+- [X] C01E08
+- [X] C01E09
+
+
 
