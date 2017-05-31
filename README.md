@@ -31,6 +31,6 @@ exercise number respectively.
 - [X] C01E07
 - [X] C01E08
 - [X] C01E09
-
+- [X] fetchall
 
 
